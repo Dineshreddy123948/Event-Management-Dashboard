@@ -26,7 +26,7 @@ Update task status (Pending/Completed).
 
 Visualize task progress using progress bars.
 
-# Screenshots
+# Main Components
 
 1. Event Management Page
 
@@ -52,8 +52,7 @@ Setup Instructions
 
 Clone the repository:
 
-git clone https://github.com/your-username/event-management-dashboard.git
-cd event-management-dashboard
+git clone https://github.com/Dineshreddy123948/Event-Management-Dashboard
 
 Install dependencies for both frontend and backend:
 
