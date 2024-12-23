@@ -1,10 +1,10 @@
 # Event-Management-Dashboard
 
-Overview
+# Overview
 
 The Event Management Dashboard is a web-based application designed to streamline the process of organizing and managing events. It enables users to create events, assign tasks, manage attendees, and track task progress with visual indicators. This project was developed as part of the Hackathon Assignment for Webknot.
 
-Features
+# Features
 
 Event Management
 
@@ -26,7 +26,7 @@ Update task status (Pending/Completed).
 
 Visualize task progress using progress bars.
 
-Screenshots
+# Screenshots
 
 1. Event Management Page
 
@@ -34,7 +34,7 @@ Screenshots
 
 3. Task Tracker Page
 
-Technologies Used
+# Technologies Used
 
 Frontend
 
@@ -57,15 +57,11 @@ cd event-management-dashboard
 
 Install dependencies for both frontend and backend:
 
-
-# Frontend
 cd frontend
 
 npm install
 
 cd ..
-
-# Backend
 
 cd backend
 
@@ -80,13 +76,9 @@ PORT=5000
 
 Start the application:
 
-# Backend
-
 cd backend
 
 npm start
-
-# Frontend
 
 cd frontend
 
@@ -94,7 +86,7 @@ npm start
 
 Access the application at http://localhost:3000.
 
-Bonus Features
+# Bonus Features
 
 Authentication for accessing the dashboard (Login/Logout).
 
@@ -102,7 +94,7 @@ Calendar view for displaying events visually.
 
 Real-time updates using WebSockets for task progress.
 
-Contributors
+# Contributors
 
 Dinesh Kumar Reddy
 
